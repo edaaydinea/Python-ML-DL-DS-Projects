@@ -1,0 +1,11 @@
+
+Lecture Notes
+Date: 2016/10/25
+Professor: Mitch Robert
+Lecture 1: Programming Basics
+
+Coding Exercise #1
+kmh = int(input("Enter speed in km/h: "))
+mph =  0.6214 * kmh
+print("Speed in Km per hour =", kmh, "KM/H")
+print("Speed in Miles per hour =", mph, "MPH")
