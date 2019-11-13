@@ -6,7 +6,7 @@ author = Eda Aydın
 
 # import libraries
 import pandas as pd  # Import pandas for data manipulation using data frames
-import numpy as np  # Import Numpy for data statistical analysis
+import numpy as np  # Import Numpy for data statistical analysis,numerical analysis
 import matplotlib.pyplot as plt  # Import matplotlib for data visualization
 import seaborn as sns  # Statistical data visualization
 
